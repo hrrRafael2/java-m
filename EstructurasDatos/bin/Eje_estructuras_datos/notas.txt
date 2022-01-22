@@ -1,0 +1,18 @@
+Arreglos
+Los arreglos son tratados como objetos , por eso se utiliza el operador
+new para crearlos.
+
+Las operaciones que puede hacer los arreglos
+- insertar elemenotos
+-Mostrar
+-Ordenar
+-Buscar
+-Eliminar
+-Modificar
+
+Ejemplo de un arreglo : 
+n es igual a tamaño;
+int n = 10;
+int arreglo[] = new int[n]; 
+
+int arregloDos [] = {1,2,3,4,5,6,7,8,9};
